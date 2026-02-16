@@ -14,7 +14,11 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
+
   - [I managed to complete my case study of Wabbit by combing through  ]
+
+  - [I managed to complete my case study of Wabbit by prospecting through decades old documents as well as conducting multiple playthroughs to build a comprehensive case study on the matter. ]
+
 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
