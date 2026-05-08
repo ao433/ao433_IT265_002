@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e72e197450f0c9443912971e901c0a42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileToGenerate: {instanceID: 0}
+  - winPanel: {instanceID: 0}
+  - winText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
